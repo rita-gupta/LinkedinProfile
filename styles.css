@@ -1,0 +1,156 @@
+body {
+  background-color: #f3f2ef;
+}
+.navbar {
+  background-color: #ffffff;
+}
+.navbar-brand img {
+  width: 32px !important;
+}
+
+ul {
+  align-items: right;
+  display: flex;
+  float: right;
+}
+
+.card {
+  background-color: #ffffff;
+  width: 100%;
+}
+
+.profile {
+  height: 50rem;
+  width: 50rem;
+}
+.profile img {
+  width: 200px !important;
+  border-radius: 50%;
+  border: 2px solid white;
+  padding-top: 1rem;
+}
+
+.profilebody {
+  margin-top: 10px;
+}
+
+.profile_left {
+  margin-top: 15rem;
+  padding-left: 80px;
+}
+
+.profile_left p {
+  font-weight: 600;
+  margin-left: 80px;
+  margin-top: 20px;
+}
+
+.thirdCard {
+  margin-top: 15px;
+  justify-content: space-between;
+  height: 30rem !important;
+  width: 50rem;
+  position: fixed;
+}
+img {
+  width: 100px !important;
+}
+
+a {
+  color: rgb(15, 14, 14);
+}
+a:hover {
+  color: rgb(15, 14, 14);
+}
+h6 {
+  font-weight: 600;
+}
+
+.container {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.recruiter {
+  border: 2px dashed grey;
+  padding: 18px;
+}
+
+.btn-group-lg > .btn,
+.btn-lg {
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+  line-height: 1;
+  border-radius: 39rem;
+  border-color: white;
+}
+
+.btn-group-lg :focus {
+  border-radius: 39rem;
+}
+.add_section {
+  border-radius: 39rem;
+  background-color: #ffffff;
+  border: 0.1px solid blue;
+}
+
+.edit_profile {
+  color: grey;
+}
+
+.second {
+  margin-top: 10px;
+  border-top: 3px solid rgb(40, 40, 131);
+}
+
+.second img {
+  width: 80px !important;
+  border-radius: 50%;
+}
+
+.experience img {
+  width: 60px !important;
+}
+
+.skills {
+  display: flex;
+  justify-content: space-between;
+}
+
+.second,
+span {
+  font-size: 14px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.about {
+  margin-top: 10px;
+}
+
+.skills {
+  padding: 20px;
+  margin: 10px;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.skill:hover {
+  background-color: rgb(207, 201, 201);
+  padding: 10px;
+  border-radius: 10%;
+}
+.technologies {
+  font-size: 40px;
+  font-weight: 600;
+  padding: 10px;
+}
+
+.highlights {
+  padding: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 18px;
+}
+.nav-item {
+  align-items: center;
+}
