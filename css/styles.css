@@ -45,13 +45,12 @@ ul {
   margin-top: 20px;
 }
 
-.thirdCard {
+/* .thirdCard {
   margin-top: 15px;
   justify-content: space-between;
   height: 30rem !important;
   width: 50rem;
-  position: fixed;
-}
+} */
 img {
   width: 100px !important;
 }
@@ -144,13 +143,23 @@ span {
   font-weight: 600;
   padding: 10px;
 }
+.profile_left img {
+  width: 40px !important;
+  border-radius: 0% !important;
+}
 
 .highlights {
   padding: 15px;
-  margin-left: 10px;
   margin-right: 10px;
   font-size: 18px;
 }
 .nav-item {
   align-items: center;
+}
+#blank {
+  width: 50%;
+  height: 80%;
+  background-color: white;
+  position: fixed;
+  margin-right: 1rem;
 }
